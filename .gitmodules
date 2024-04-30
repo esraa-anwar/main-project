@@ -1,3 +1,6 @@
 [submodule "ButtonSubModule"]
 	path = ButtonSubModule
 	url = https://github.com/esraa-anwar/submodule.git
+[submodule "src/ButtonSubModule"]
+	path = src/ButtonSubModule
+	url = https://github.com/esraa-anwar/submodule.git
